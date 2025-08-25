@@ -2,7 +2,7 @@
   <img src="banner.jpg" alt="MIRA Mobility Banner" width="100%"/>
 </p>
 
-<h2 align="center"><b>Teleoperation for safe, scalable automated driving.</b></h2>
+<h3 align="center"><b>Shaping the Future of Mobility</b></h3>
 
 ---
 
