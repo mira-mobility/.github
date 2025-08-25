@@ -2,8 +2,7 @@
   <img src="banner.jpg" alt="MIRA Mobility Banner" width="100%"/>
 </p>
 
-<h1 align="center">🚗 MIRA Mobility</h1>
-<p align="center"><b>Teleoperation for safe, scalable automated driving.</b></p>
+<h2 align="center"><b>Teleoperation for safe, scalable automated driving.</b></h2>
 
 ---
 
@@ -19,8 +18,7 @@
 
 ---
 
-### 🔗 Links  
-🌐 [**Website**](https://mira-mobility.com/)  
+🌐 Visit [**mira-mobility.com**](https://mira-mobility.com/) to learn more.
 
 ---
 
